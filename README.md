@@ -1,4 +1,4 @@
-# FINZAR OBS!!!
+# Wow did this work tho funni Finzar OBS hehe
 
 [![Build Status](https://dev.azure.com/streamlabs/Streamlabs%20OBS/_apis/build/status/stream-labs.streamlabs-obs?branchName=staging)](https://dev.azure.com/streamlabs/Streamlabs%20OBS/_build/latest?definitionId=1&branchName=staging)
 
